@@ -7,7 +7,7 @@ Este repositorio contiene una colección de prácticas y proyectos desarrollados
 El repositorio está estructurado en los siguientes directorios:
 
 - **include**: archivos de cabecera (.h) que definen las interfaces y estructuras utilizadas en los proyectos.
-- **src/**: archivos fuente (.c) que implementan la funcionalidad principal de las prácticas y proyectos.
+- **src**: archivos fuente (.c) que implementan la funcionalidad principal de las prácticas y proyectos.
 
 ## Objetivos de Aprendizaje
 
